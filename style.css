@@ -103,9 +103,9 @@
 }
 
 .main img{
-    margin-top: 100px;
-    width: 500px;
-    margin-left: 500px;
+    margin-top: 0px;
+    width: 1000px;
+    margin-left: 250px;
 }
 
 @media screen and (max-width:600px){
@@ -121,7 +121,7 @@
     text-align:left;
     font-family: lora;
     font-size: 24px;
-    margin-top: 50px;
+    margin-top: 0px;
     font-weight: bold;
     margin-left: 50px;
 
