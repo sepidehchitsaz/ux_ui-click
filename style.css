@@ -396,7 +396,7 @@
     }
 }
 
-.lowhigh h1{
+.hifi h1{
     text-align:left;
     font-family: lora;
     font-size: 24px;
@@ -407,7 +407,7 @@
 }
 
 @media screen and (max-width:600px){
-    .lowhigh h1{
+    .hifi h1{
         font-size: 18px;
         margin-left: 30px;
         margin-bottom: 20px;
@@ -415,7 +415,7 @@
 }
 
 
-.lowhigh p{
+.hifi p{
     font-family: lora;
     font-size: 18px;
     margin-top: 50px;
@@ -427,13 +427,13 @@
 }
 
 @media screen and (max-width:600px){
-    .lowhigh p{font-size: 14px;
+    .hifi p{font-size: 14px;
         margin-left: 30px;
         margin-top: 20px;
     }
 }
 
-.lowhigh img{
+.hifi img{
     width: 1200px;
     margin-left: 170px;
     border-radius: 10px 10px 10px 10px;
@@ -444,6 +444,33 @@
         width: 300px;
         margin-left: 30px;
     }
+}
+
+.hifi button  {
+    color: #C9AA8B;
+    background-color: #0C1B1D ;
+    font-family: oswald;
+    margin-left: 50px;
+    margin-top: 50px;
+
+    
+}
+
+@media screen and (max-width:600px){
+    .hifi button {
+        margin-top: 20px;
+    }
+}
+
+.hifi a button{
+    color: #C9AA8B;
+    
+}
+
+.hifi a button:hover{
+    color: #DC4625 ;
+
+
 }
 
 .future{
