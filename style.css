@@ -474,6 +474,54 @@
 
 }
 
+.key{
+    margin-top: 100px;
+}
+
+@media screen and (max-width:600px){
+    .key {
+        margin-top: 50px;
+    }
+}
+
+.key h1{
+    text-align:left;
+    font-family: lora;
+    font-size: 24px;
+    margin-left: 50px;
+    font-weight: bold;
+    margin-bottom: 30px;
+
+
+}
+
+@media screen and (max-width:600px){
+    .key h1 {
+        font-size: 18px;
+        margin-left: 30px;
+    }
+}
+
+
+.key p{
+    font-family: lora;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+    margin-left: 50px;
+    
+
+}
+
+@media screen and (max-width:600px){
+    .key p{
+        font-size: 14px;
+        margin-left: 30px;
+    }
+}
+
+
 .future{
     margin-top: 100px;
 }
@@ -520,8 +568,6 @@
         margin-left: 30px;
     }
 }
-
-
 
 
 
