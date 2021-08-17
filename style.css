@@ -111,7 +111,7 @@
 @media screen and (max-width:600px){
     .main img{
         width: 400px;
-        margin-left: 50px;
+        margin-left: 0px;
         margin-top: 20px;
     }
 }
@@ -442,7 +442,7 @@
 
 @media screen and (max-width:600px){
     .hifi img{
-        width: 400px;
+        width: 350px;
         margin-left: 30px;
     }
 }
